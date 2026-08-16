@@ -6,9 +6,9 @@ metadata:
     app: crapi-identity
 data:
   DB_HOST: postgresdb
-  JWT_SECRET: crapi #Used for creating a JWT. Can be anything
+  JWT_SECRET: 1b59c63133e85aa7c0c03a6b0f455be54c7cf895d6b53ff0 #Used for creating a JWT. Can be anything
   DB_USER: admin
-  DB_PASSWORD: crapisecretpassword
+  DB_PASSWORD: af368bf8b0d9b3054029b1577ab0ba6a1c0c0b9fc37b6b5f
   DB_NAME: crapi
   DB_PORT: "5432"
   APP_NAME: "crapi-identity"

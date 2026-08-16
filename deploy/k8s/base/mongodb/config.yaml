@@ -6,5 +6,5 @@ metadata:
     app: mongodb
 data:
   MONGO_INITDB_ROOT_USERNAME: admin
-  MONGO_INITDB_ROOT_PASSWORD: crapisecretpassword
+  MONGO_INITDB_ROOT_PASSWORD: af368bf8b0d9b3054029b1577ab0ba6a1c0c0b9fc37b6b5f
  

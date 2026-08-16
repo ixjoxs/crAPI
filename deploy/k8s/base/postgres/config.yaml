@@ -6,6 +6,6 @@ metadata:
     app: postgresdb
 data:
   POSTGRES_USER: admin
-  POSTGRES_PASSWORD: crapisecretpassword
+  POSTGRES_PASSWORD: af368bf8b0d9b3054029b1577ab0ba6a1c0c0b9fc37b6b5f
   POSTGRES_DB: crapi
  
